@@ -1,1 +1,1 @@
-# Repository with the exercise done for the course BEDU's Web Dev JS
+# Repository with the exercise done at the course BEDU's Web Dev JS
