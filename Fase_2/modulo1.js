@@ -1,0 +1,7 @@
+//Exportamos las funciones sum y multiply
+
+const sum = (a, b) => a + b;
+
+const multiply = (a, b) => a * b;
+
+export{sum,multiply}
